@@ -1,6 +1,17 @@
-// ConsoleApplication1.cpp: 定义控制台应用程序的入口点。
-//
+/******************************************************************************
 
+Copyright (C),2007-2016, LonBon Technologies Co. Ltd. All Rights Reserved.
+
+******************************************************************************
+Version       : 1.0
+Author        : 肖兴宇
+Created       : 2017/10/16
+Description   :ffmpeg环境搭建
+History       :
+1.Date        :
+Author      :
+Modification:
+******************************************************************************/
 #include "stdafx.h"
 #include <stdio.h>  
 #include "sdl2/sdl.h"
